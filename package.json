@@ -1,0 +1,28 @@
+{
+  "name": "openofficexml2markdown",
+  "version": "1.0.0",
+  "description": "Convert OpenOffice XML into Markdown format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaszczyk/openofficexml2markdown.git"
+  },
+  "keywords": [
+    "xml",
+    "markdown"
+  ],
+  "author": "Grzegorz Laszczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaszczyk/openofficexml2markdown/issues"
+  },
+  "homepage": "https://github.com/glaszczyk/openofficexml2markdown#readme",
+  "devDependencies": {
+    "eslint": "^3.17.0",
+    "eslint-config-idiomatic": "^3.1.0",
+    "jsdom": "^9.11.0"
+  }
+}

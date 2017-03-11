@@ -1,0 +1,1051 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"as-fe\talign-self: flex-end;"
+			],
+			[
+				"brl",
+				"bdblrs\tborder-bottom-left-radius"
+			],
+			[
+				"jc",
+				"jc-c\tjustify-content: center;"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"b",
+				"Behance.svg"
+			],
+			[
+				"d",
+				"dribbble.svg"
+			],
+			[
+				"bx",
+				"bxsh\tbox-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
+			],
+			[
+				"h",
+				"h-a\theight: auto;"
+			],
+			[
+				"m",
+				"m\tmargin"
+			],
+			[
+				"td",
+				"td-n\ttext-decoration: none;"
+			],
+			[
+				"bgc",
+				"bgc-t\tbackground-color: transparent;"
+			],
+			[
+				"p",
+				"philosophy.jpg\tw:147 h:70"
+			],
+			[
+				"bu",
+				"buttonsArray"
+			],
+			[
+				"B",
+				"ButtonWithImage"
+			],
+			[
+				"T",
+				"TextWithSubtitle"
+			],
+			[
+				"Title",
+				"TitleMedium〔class〕"
+			],
+			[
+				"l",
+				"lts\tletter-spacing"
+			],
+			[
+				"button",
+				"button__hire-us-text"
+			],
+			[
+				"bg",
+				"bgi\tbackground-image: url(${0});"
+			],
+			[
+				"t",
+				"TitleLarge.js"
+			],
+			[
+				"timeline",
+				"timeline__element--active"
+			],
+			[
+				"Ti",
+				"TimelineElement"
+			],
+			[
+				"Timeli",
+				"TimelineElement〔class〕"
+			],
+			[
+				"tal",
+				"ta-l\ttext-align: left;"
+			],
+			[
+				"ti",
+				"timeline__number-active"
+			],
+			[
+				"timel",
+				"timeline"
+			],
+			[
+				"fd",
+				"fxd-c\tflex-direction: column;"
+			],
+			[
+				"In",
+				"InfoTopPart"
+			],
+			[
+				"I",
+				"InfoPanel"
+			],
+			[
+				"Info",
+				"InfoTopPart"
+			],
+			[
+				"aic",
+				"ai-c\talign-items: center;"
+			],
+			[
+				"cla",
+				"class〔keyword〕"
+			],
+			[
+				"c",
+				"customMadeElement"
+			],
+			[
+				"cu",
+				"customTag"
+			],
+			[
+				"title",
+				"title-medium"
+			],
+			[
+				"Tit",
+				"TitleLarge"
+			],
+			[
+				"0",
+				"01_atoms/"
+			],
+			[
+				"w",
+				"w\twidth"
+			],
+			[
+				"open",
+				"openLink"
+			],
+			[
+				"pr",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"ope",
+				"openLink"
+			],
+			[
+				"ai",
+				"ai-c\talign-items: center;"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"slide",
+				"slideNo〔variable〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"a",
+				"activeSlide"
+			],
+			[
+				"imp",
+				"import〔keyword〕"
+			],
+			[
+				"bn",
+				"bd-n\tborder: none;"
+			],
+			[
+				"sli",
+				"slider-main"
+			],
+			[
+				"sl",
+				"slider-main"
+			],
+			[
+				"ta",
+				"ta-c\ttext-align: center;"
+			],
+			[
+				"j",
+				"jc-fe\tjustify-content: flex-end;"
+			],
+			[
+				"df",
+				"d-f\tdisplay: flex;"
+			],
+			[
+				"po",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"br",
+				"bdrs\tborder-radius"
+			],
+			[
+				"s",
+				"slider-main"
+			],
+			[
+				"sty",
+				"styles.scss"
+			],
+			[
+				"Filter",
+				"FilterBar"
+			],
+			[
+				"Si",
+				"SingleRow"
+			],
+			[
+				"S",
+				"SingleRow"
+			],
+			[
+				"new",
+				"newAge"
+			],
+			[
+				"text",
+				"textInput"
+			],
+			[
+				"get",
+				"getSearch"
+			],
+			[
+				"se",
+				"searchInput"
+			],
+			[
+				"sortA",
+				"sortAgeOrder"
+			],
+			[
+				"resultTab",
+				"resultTable1"
+			],
+			[
+				"res",
+				"resultTable1〔variable〕"
+			],
+			[
+				"sor",
+				"sortAgeOrder"
+			],
+			[
+				"so",
+				"sortAgeOrder"
+			],
+			[
+				"age",
+				"ageAsc"
+			],
+			[
+				"sta",
+				"sortAgeOrder"
+			],
+			[
+				"sortNa",
+				"sortNameOrder"
+			],
+			[
+				"dropd",
+				"dropdownTest〔variable〕"
+			],
+			[
+				"che",
+				"checkboxPress"
+			],
+			[
+				"te",
+				"testEvent"
+			],
+			[
+				"n",
+				"nameAsc"
+			],
+			[
+				"re",
+				"resultTable1"
+			],
+			[
+				"fi",
+				"fillTable"
+			],
+			[
+				"catch",
+				"catchPerson"
+			],
+			[
+				"tes",
+				"testSearch〔variable〕"
+			],
+			[
+				"f",
+				"fillTable"
+			],
+			[
+				"my",
+				"myName"
+			],
+			[
+				"table",
+				"tableRow〔variable〕"
+			],
+			[
+				"r",
+				"round〔function〕"
+			],
+			[
+				"g",
+				"getTime〔function〕"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"Ta",
+				"TableRow"
+			],
+			[
+				"image",
+				"image-with-content"
+			],
+			[
+				"ima",
+				"image-with-content"
+			],
+			[
+				"bs",
+				"bxsh-r\tbox-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+			],
+			[
+				"fw",
+				"fxw-w\tflex-wrap: wrap;"
+			],
+			[
+				"id",
+				"id=〔attribute〕"
+			],
+			[
+				"ls",
+				"lts\tletter-spacing"
+			],
+			[
+				"tt",
+				"tt-u\ttext-transform: uppercase;"
+			],
+			[
+				"_",
+				"_TableHeader.scss"
+			],
+			[
+				"add",
+				"addRecord"
+			],
+			[
+				"ad",
+				"addRecord"
+			],
+			[
+				"A",
+				"AddRecord"
+			],
+			[
+				"_A",
+				"_AddRecord.scss"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"Re",
+				"ReactDom"
+			],
+			[
+				"ho",
+				"hobbyList"
+			],
+			[
+				"img",
+				"imgURL"
+			],
+			[
+				"im",
+				"imgURL"
+			],
+			[
+				"fr",
+				"frog"
+			],
+			[
+				"chan",
+				"changeFrogPosition"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"ju",
+				"jumpOnEmpty"
+			],
+			[
+				"fro",
+				"frogsSelected"
+			],
+			[
+				"pa",
+				"parentTwo"
+			],
+			[
+				"frog",
+				"frogArray"
+			],
+			[
+				"mo",
+				"motherTraits"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"ma",
+				"matherFrog"
+			],
+			[
+				"fa",
+				"fatherTraits"
+			],
+			[
+				"mothe",
+				"motherTraits〔argument〕"
+			],
+			[
+				"myFr",
+				"myFrog.sex"
+			],
+			[
+				"data",
+				"data-no"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"random",
+				"randomId〔variable〕"
+			],
+			[
+				"notification",
+				"$notificationButton〔variable〕"
+			],
+			[
+				"pattern",
+				"pattern=〔attribute〕"
+			],
+			[
+				"pae",
+				"parentNode"
+			],
+			[
+				"labe",
+				"labelArray"
+			],
+			[
+				"la",
+				"labelArray"
+			],
+			[
+				"ch",
+				"checkout-page__left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 210.0,
+		"last_filter": "new f",
+		"selected_items":
+		[
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syh",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"set",
+				"Set Syntax: SCSS"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"color ",
+				"Convert Case: Lower Case"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 104.0,
+		"history":
+		[
+			"view.meta_info(\"cancelCompletion\", view.sel()[0].a)",
+			"clear",
+			"cls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown"
+	],
+	"file_history":
+	[
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/p-twitch.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/a-image.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/a-text.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/scripts/01_components/User.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/scripts/01_components/List.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/scripts/01_components/Menu.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/m-user.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/scripts/02_pages/App.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/_blocks.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/scripts/01_components/Image.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/scripts/main.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/01_settings/_variables.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/01_settings/_settings.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/02_mixins/_mixins.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/01_settings/_fonts.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/m-menu.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/m-record.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/a-button.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/styles/05_blocks/p-twitch.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/scripts/main.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/scripts/01_components/Menu.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/scripts/01_components/List.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/scripts/02_pages/App.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/styles/01_settings/_settings.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/styles/05_blocks/_blocks.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/styles/05_blocks/m-list.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/styles/05_blocks/m-menu.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/TwitchTV/src/styles/05_blocks/a-button.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/styles.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/webpack.config.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/package.json",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/package.json",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/p-contact.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/02_pages/Contact.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/_blocks.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/ContactMap.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/02_pages/GlobalPage.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/02_pages/About.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/AboutTop.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/a-button.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/ButtonSocial.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/ContactOnTop.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/ButtonWithArrow.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/02_pages/Home.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/p-about.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/AboutBottom.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/m-timeline.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/ButtonWithImage.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/HomeBottom.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/a-title.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/p-home.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/m-top-bar.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/05_blocks/a-text.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/Text.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/TitleMedium.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/MainMenu.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/HireUs.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/HomeTop.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/TextWithSubtitle.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/02_mixins/_mixins.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/TitleLarge.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/Header.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/Timeline.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/TimelineElement.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/01_settings/_variables.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/01_components/Logo.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/scripts/main.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/src/styles/03_extends/_extends.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/webpack.config.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/GlobalWebsiteWithReact/README.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/02_molecules/InfoBottomPart.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/02_molecules/InfoTopPart.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/03_organisms/Info.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/05_pages/Dashboard.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/m-info.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/01_settings/_variables.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/01_atoms/Icon.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/_blocks.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/a-text.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/02_mixins/_mixins.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/a-icon.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/01_atoms/Text.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/01_atoms/TitleLarge.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/01_atoms/TitleSmall.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/01_atoms/TitleMedium.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/a-text-x-small.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/01_atoms/TitleBig.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/a-title-large.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/title-small.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/title-big.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/scripts/main.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/title-medium.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/package.json",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/.gitignore",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/README.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/05_blocks/text-small.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/01_settings/_settings.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/webpack.config.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/styles.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/04_helpers/_helpers.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/03_extends/_extends.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/00_vendors/_vendors.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/styles/styles.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SingleSlide.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SingleDot.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/Dots.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SlidesTotal.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SliderMain.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/main_sort.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/TableRow.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/Table.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/Header.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/AddRecord.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/Search.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/styles/styles.scss",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/SimpleApp.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/package.json",
+		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/modules/_variables.scss",
+		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/modules/_fonts.scss",
+		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/layout/_image-with-content.scss",
+		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/layout/_image-grid.scss",
+		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/layout/_tasting.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"right",
+			"auto",
+			"User",
+			"section",
+			"List",
+			"/../../",
+			"/../",
+			"div",
+			"GlobalPage",
+			"Menu",
+			"List",
+			"Menu",
+			"state",
+			"p",
+			"span",
+			"WithArrow",
+			"OnTop",
+			"AboutTop",
+			"div",
+			"main",
+			"About",
+			"Window",
+			"HireUs",
+			"__hire-us",
+			"hire-us",
+			"HireUs",
+			"-ma",
+			"span",
+			"button",
+			"TextBlocks",
+			"TextWithSubtitle",
+			"HireUs",
+			"home",
+			"4",
+			"home",
+			"Home",
+			"active",
+			"p",
+			"Text",
+			"TitleLarge",
+			"header",
+			"Active",
+			"Text",
+			"absolute",
+			"-",
+			"em",
+			"Header",
+			"Icon",
+			"main",
+			"HomeTop",
+			"HomeContent",
+			"HomeBottom",
+			"Content",
+			"Home",
+			"Home ",
+			"Home",
+			"HomeContent",
+			"Timeline",
+			"Header",
+			"Text",
+			"aside",
+			"Timeline",
+			".js",
+			"itleSmall",
+			"Dashboard",
+			"01_atoms",
+			"extends",
+			"top-part",
+			"InfoTopPartTest",
+			"TextTest",
+			"Text",
+			"Top",
+			"InfoBottomPart",
+			"Top",
+			"__top",
+			"InfoTopPart",
+			"Text",
+			"text",
+			"content",
+			"Text",
+			"h3",
+			"title([:\\s])",
+			"title",
+			"TitleSmall",
+			"\t\t// build dynamic element with elementname, className, content using arrow function\n",
+			"Tag",
+			"customTag.",
+			"Big",
+			"big",
+			"Big",
+			"big",
+			"small",
+			"-",
+			"title",
+			"small",
+			"Medium",
+			"\t\t\t\t<TitleMedium class={ \"TitleMedium\" } title={ \"To jest mój tytuł średni\"} />\n",
+			"Medium",
+			"medium",
+			"Medium",
+			"@import './title-small';\n",
+			"font-",
+			"@import './text-small';",
+			"font-style",
+			"\tfont-weight: map-get($font-style, 'weight');\n",
+			"Medium",
+			"\t\t@include mobile {\n\t\t\tfont-size: 44px;\n\t\t}\n",
+			"Dots",
+			"import Dots from \"./Dots.js\";\n",
+			"Dots",
+			" type=\"button\"",
+			"SingleSlide",
+			"import SingleSlide from \"./SingleSlide.js\";\n",
+			"SingleStyle",
+			"SingleSlide",
+			"Style",
+			"button",
+			"p",
+			"div",
+			"51",
+			"999",
+			"controls",
+			"5",
+			"td>",
+			"'",
+			".person",
+			"name",
+			"Name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"content$1",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ooxml2md.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"newpe",
+				"src/scripts/NewPerson.js"
+			],
+			[
+				"allr",
+				"src/scripts/AllRows.js"
+			],
+			[
+				"base.t",
+				"YoungSkilledTest/app/Resources/views/base.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/TastingPoland.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".hea",
+				".header"
+			],
+			[
+				".se",
+				".search"
+			]
+		],
+		"width": 1272.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

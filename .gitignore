@@ -1,0 +1,12 @@
+#node modules
+node_modules
+
+#dist
+/dist/scripts
+/dist/styles
+
+#Blog posts and notes
+Blog
+
+# OSX files
+.DS_Store
