@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"st",
+				"styl-znakowy-1"
+			],
+			[
+				"tra",
+				"traverseDOM"
+			],
+			[
+				"doc",
+				"document.getElementsByTagName"
+			],
+			[
+				"url",
+				"urlOne"
+			],
+			[
+				"urlT",
+				"urlTwo"
+			],
+			[
+				"t",
+				"tagContent"
+			],
+			[
+				"re",
+				"readFromFirst"
+			],
+			[
+				"n",
+				"node"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ge",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"ur",
+				"urlTwo"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"no",
+				"nodeWindow"
+			],
+			[
+				"c",
+				"content-styled-unstyled.xml"
+			],
+			[
+				"co",
+				"content-one-para.xml"
+			],
+			[
+				"console",
+				"consoleOutput"
+			],
+			[
+				"struktu",
+				"strukturę"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"xm",
+				"xmljs"
+			],
+			[
+				"pa",
+				"parseString"
+			],
+			[
+				"p",
+				"parseString"
+			],
+			[
 				"as",
 				"as-fe\talign-self: flex-end;"
 			],
@@ -48,10 +132,6 @@
 				"bgc-t\tbackground-color: transparent;"
 			],
 			[
-				"p",
-				"philosophy.jpg\tw:147 h:70"
-			],
-			[
 				"bu",
 				"buttonsArray"
 			],
@@ -78,10 +158,6 @@
 			[
 				"bg",
 				"bgi\tbackground-image: url(${0});"
-			],
-			[
-				"t",
-				"TitleLarge.js"
 			],
 			[
 				"timeline",
@@ -130,10 +206,6 @@
 			[
 				"cla",
 				"class〔keyword〕"
-			],
-			[
-				"c",
-				"customMadeElement"
 			],
 			[
 				"cu",
@@ -304,14 +376,6 @@
 				"testEvent"
 			],
 			[
-				"n",
-				"nameAsc"
-			],
-			[
-				"re",
-				"resultTable1"
-			],
-			[
 				"fi",
 				"fillTable"
 			],
@@ -448,77 +512,31 @@
 				"frogsSelected"
 			],
 			[
-				"pa",
-				"parentTwo"
-			],
-			[
 				"frog",
 				"frogArray"
-			],
-			[
-				"mo",
-				"motherTraits"
-			],
-			[
-				"con",
-				"console.log"
-			],
-			[
-				"ma",
-				"matherFrog"
-			],
-			[
-				"fa",
-				"fatherTraits"
-			],
-			[
-				"mothe",
-				"motherTraits〔argument〕"
-			],
-			[
-				"myFr",
-				"myFrog.sex"
-			],
-			[
-				"data",
-				"data-no"
-			],
-			[
-				"loc",
-				"localStorage"
-			],
-			[
-				"random",
-				"randomId〔variable〕"
-			],
-			[
-				"notification",
-				"$notificationButton〔variable〕"
-			],
-			[
-				"pattern",
-				"pattern=〔attribute〕"
-			],
-			[
-				"pae",
-				"parentNode"
-			],
-			[
-				"labe",
-				"labelArray"
-			],
-			[
-				"la",
-				"labelArray"
-			],
-			[
-				"ch",
-				"checkout-page__left"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 336,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scripts/scripts.js",
+			"settings":
+			{
+				"buffer_size": 1863,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,10 +545,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 210.0,
-		"last_filter": "new f",
+		"height": 357.0,
+		"last_filter": "ren",
 		"selected_items":
 		[
+			[
+				"ren",
+				"File: Rename"
+			],
 			[
 				"new f",
 				"File: New File Relative to Current View"
@@ -636,10 +658,36 @@
 	},
 	"expanded_folders":
 	[
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown"
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/05_ChodzimyPoDrzewie",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/06_PrzydatneLinki",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts"
 	],
 	"file_history":
 	[
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/06_PrzydatneLinki/06_linki.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/06_PrzydatneLinki/06_linki.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/06_PrzydatneLinki/JS.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/05_ChodzimyPoDrzewie/05_xml-traversing.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/xml2md.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/04_WczytujemyXML/04_xml-loading.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/index.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/scripts.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/.htaccess",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/03_ODFXMLStructure/03_xml-structure.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/content-edited.xml",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/package.json",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/.eslintrc.json",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/02_ProblemyZFormatowaniem/Questionnaire-answers.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/02_ProblemyZFormatowaniem/02_problemy.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/Blog/01_ZalozeniaProjektu/01_zalozenia.md",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/read.js",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/read.html",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/src/scripts/books.xml",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/TestSamples/ParaCharStylesAndDefault/content.xml",
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/openofficexml2markdown/.gitignore",
 		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/p-twitch.scss",
 		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/a-image.scss",
 		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/FreeCodeCamp/04_TwitchTV/src/styles/05_blocks/a-text.scss",
@@ -746,32 +794,11 @@
 		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/04_helpers/_helpers.scss",
 		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/03_extends/_extends.scss",
 		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/DashboardWithReact/src/styles/00_vendors/_vendors.scss",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/styles/styles.scss",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SingleSlide.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SingleDot.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/Dots.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SlidesTotal.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/scripts/SliderMain.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/index.html",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/main_sort.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/TableRow.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/Table.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/Header.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/AddRecord.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/Search.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/styles/styles.scss",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/src/scripts/SimpleApp.js",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/index.html",
-		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/React_01_SimpleTable/package.json",
-		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/modules/_variables.scss",
-		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/modules/_fonts.scss",
-		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/layout/_image-with-content.scss",
-		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/layout/_image-grid.scss",
-		"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/dev/sass/layout/_tasting.scss"
+		"/Volumes/Praca/MojeOsobiste/FrontEndProjects/KRD_slider/src/styles/styles.scss"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
@@ -785,6 +812,24 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"\">",
+			"\"(.+?)\">(.+?)<",
+			"/A>",
+			"<DT.+?=",
+			"\"(http:.+?)\">(.+?)<",
+			"\\sADD.+?>",
+			"node",
+			" );",
+			");\n",
+			"\"",
+			")",
+			"(",
+			"blob",
+			"child",
+			"msg",
+			"idiomatic",
+			")",
+			"print",
 			"right",
 			"auto",
 			"User",
@@ -894,25 +939,7 @@
 			"\t\t@include mobile {\n\t\t\tfont-size: 44px;\n\t\t}\n",
 			"Dots",
 			"import Dots from \"./Dots.js\";\n",
-			"Dots",
-			" type=\"button\"",
-			"SingleSlide",
-			"import SingleSlide from \"./SingleSlide.js\";\n",
-			"SingleStyle",
-			"SingleSlide",
-			"Style",
-			"button",
-			"p",
-			"div",
-			"51",
-			"999",
-			"controls",
-			"5",
-			"td>",
-			"'",
-			".person",
-			"name",
-			"Name"
+			"Dots"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -920,6 +947,11 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\" target=\"_blank\">",
+			"[$2]($1)",
+			"",
+			"[$2]($1)",
+			">",
 			"content$1",
 			"\\n",
 			""
@@ -933,8 +965,277 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										331,
+										335
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex",
+									"hex_compressed",
+									"rgb",
+									"webcolors",
+									"rgba",
+									"hsl",
+									"hsla"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1489819334.61,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/scripts/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1490219937.65
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -981,7 +1282,7 @@
 	"project": "ooxml2md.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 94.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1007,16 +1308,16 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 582.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"/Volumes/Praca/Zlecenia/Landbrand/2016/TastingPoland/WWW/TastingPoland.sublime-project"
+				"/Volumes/Praca/MojeOsobiste/FrontEndProjects/Kadromierz/Kadromierz.sublime-project"
 			]
 		],
-		"width": 380.0
+		"width": 725.0
 	},
 	"select_symbol":
 	{
