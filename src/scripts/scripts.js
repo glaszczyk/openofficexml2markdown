@@ -57,9 +57,19 @@ function readFromFirst( node ) {
 			//console.log( current.nodeValue );
 			if ( current.parentElement.attributes.length === 0 ) {
 				return ( prev + `<${current.parentElement.nodeName}>` + current.nodeValue );
+				//użyć funcji addTag( current ) lub alternatywnej – jeśli nie da sie obu przypadków zaimplementować w jednej funkcji
 			} else {
 				return ( prev + `<${current.parentElement.attributes[ 0 ].nodeValue}>` + current.nodeValue );
+				//użyć funcji addTag( current )
 			}
 		}
 	}, '' );
+}
+// jeśli styl akapitowy to znacznik na początku, jeśli styl znakowy znacznik na początku i końcu
+// jakie rodzaje elementów możemy rozróżnić?
+// akapitowe: text:h, text:p,
+// znakowe: text:span
+// style zdefiniowane w OpenOffice są w pliku styles.xml, te zdefiniowane lokalnie są w content.xml. Informacje o przeznaczeniu są w atrybutach style:name, style:family (paragraph, text), style:class (text, index, list, extra). UWAGA! Nie wszystkie zawsze są zdefiniowane.
+function addTag( node ) {
+
 }
